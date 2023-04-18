@@ -1,0 +1,3 @@
+int sub (inta,intb){
+return a/b;
+}
